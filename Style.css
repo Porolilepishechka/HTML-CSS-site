@@ -20,3 +20,20 @@ body{
     box-shadow: 16px 16px 24px rgba(rgb(64, 54, 22));
     overflow: hidden;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #9bcaf8;
+    color: #000000;
+    border-radius: 20px;
+}
+
+.card{
+    max-width: 500px;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 10%;
+    background-color: #fff9dc;
+}
